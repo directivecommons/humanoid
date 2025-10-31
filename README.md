@@ -2,7 +2,7 @@
 Humanoid-Grade Field-Composite Compute Architecture
 
 # HG-FCCA: Simple Overview
-[HG-FCCA_Whitepaper.md](https://github.com/directivecommons/humanoid/blob/main/HG-FCCA_Revised_Whitepaper.md)
+[HG-FCCA_Whitepaper.md](https://github.com/directivecommons/humanoid/blob/main/HG-FCCA_Whitepaper.md)
 
 ## What Is It?
 
