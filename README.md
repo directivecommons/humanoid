@@ -190,3 +190,19 @@ This isn't inventing new transistors - it's **smart integration** of existing pi
 **HG-FCCA Safety Brain**: "I will respond in exactly 5 milliseconds, every time, guaranteed by physics"
 
 That's the difference between a demo robot and one you'd trust around people.
+
+---
+
+## ⚠️ Disclaimer
+
+This document represents a **conceptual exploration** published by Directive Commons. It is a thought experiment and architectural vision, not a research proposal, peer-reviewed work, or implementation plan.
+
+**Purpose:** To explore possibilities, inspire research directions, and establish conceptual frameworks.
+
+**Nature:** Speculative technical architecture combining real physics with ambitious integration. Individual components may reference demonstrated technologies; overall systems are exploratory and face significant challenges.
+
+**Use:** Released under CC BY 4.0. Provided "as is" without warranty. No liability assumed for actions based on these concepts.
+
+Think of this as "architectural fiction" — like concept cars that explore ideas which might influence future designs, even if never built as shown.
+
+---
